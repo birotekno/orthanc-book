@@ -1,0 +1,2 @@
+copy: Sphinx/source/_templates/layout.html
+copyrev: b1fe66f3a7480e9f23a774a2b4aa18d0cf413a02
