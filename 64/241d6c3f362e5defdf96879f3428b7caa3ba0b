@@ -1,0 +1,4 @@
+changeset e4e9cca89c643882fcdb9009a3754983a67ddf91
+manifest 4721da1373f506834e4f03949a30d5f1333da081
+extra branch:David-Wikler/clarified-mutual-exclusion-of-callback-1585511553371
+files Sphinx/source/users/lua.rst
