@@ -1,0 +1,4 @@
+changeset f2b8f57d519650d9d600fb9271604bbf5aea094f
+manifest 4f2c1dcd8fbbead9a03a599ec49671b2f465d968
+extra branch:integrations-osirix-horos
+files Sphinx/source/integrations/integrate-osirix-with-dicom.rst

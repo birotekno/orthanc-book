@@ -1,0 +1,4 @@
+changeset b0a71b880ca091cccd03f1026eac76f18242c247
+manifest eacde1fd0678045f0c08b47d85eb8f868dde4caf
+extra amend_source:c17ea5bf6f70c428a5228c276ea4857ad958ccdd
+files Sphinx/source/plugins/postgresql.rst
