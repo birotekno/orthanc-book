@@ -1,1 +1,0 @@
-This is a basic project to test the configuration of our BuildBot.
